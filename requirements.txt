@@ -1,0 +1,11 @@
+Terminal:
+1.Jupyter notebook install and upgrade
+   pip install jupyter --upgrade
+2.tqdm kütüphanesi install:
+    pip install tqdm
+3.ipywidgets kütüphanesini istall and upgrade:
+    pip install ipywidgets --upgrade
+    
+
+
+
